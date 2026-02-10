@@ -1,7 +1,6 @@
 module.exports = {
   config: {
     name: "fork",
-    aliases: [],
     version: "1.7",
     author: "MahMUD",
     countDown: 0,
