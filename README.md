@@ -30,9 +30,9 @@
 
 ---
 
-## • **Language Selection / ভাষা নির্বাচন**
+## • **Language Selection**
 You can switch the bot's response language in the `config.json` file.
-আপনি `config.json` ফাইলে গিয়ে ভাষা পরিবর্তন করতে পারেন।
+
 
 | Language | Code | Status |
 | :--- | :--- | :--- |
@@ -73,7 +73,7 @@ If you find any issues or need custom features, feel free to reach out!
 ---
 
 ## 👤 **Credits**
-**Developer:** **ARIYAN MAHMUD** **Project Name:** Hinata-Bot-V3  
+**Developer:** **MahMUD** **Project Name:** Hinata-Bot-V3  
 
 <p align="center">
   <img src="https://i.imgur.com/UM3ekFf.jpeg" width="150px" style="border-radius: 50%;"/>
