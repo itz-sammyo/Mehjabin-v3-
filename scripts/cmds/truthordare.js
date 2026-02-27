@@ -83,7 +83,7 @@ module.exports = {
       return api.sendMessage("❌ | Invalid command.", event.threadID, event.messageID);
     } catch (error) {
       console.error(error);
-      return api.sendMessage("🥹error, contact MahMUD.", event.threadID, event.messageID);
+      return api.sendMessage("🥹error, contact It'z Sammyo.", event.threadID, event.messageID);
     }
   }
 };
