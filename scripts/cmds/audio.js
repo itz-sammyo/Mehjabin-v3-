@@ -29,12 +29,12 @@ module.exports = {
 
         langs: {
                 bn: {
-                        error: "❌ An error occurred: contact MahMUD to help %1",
+                        error: "❌ An error occurred: contact It'z Sammyo to help %1",
                         noResult: "⭕ | দুঃখিত বেবি, \"%1\" এর জন্য কিছু খুঁজে পাইনি।",
                         success: "✅ | এই নাও তোমার গান: %1"
                 },
                 en: {
-                        error: "❌ An error occurred: contact MahMUD to help %1",
+                        error: "❌ An error occurred: contact It'z Sammyo to help %1",
                         noResult: "⭕ | Sorry baby, I couldn't find anything for \"%1\"",
                         success: "✅ | Here is your song: %1"
                 },
