@@ -29,14 +29,14 @@ module.exports = {
 
         langs: {
                 bn: {
-                        noMention: "× বেবি, কাউকে তো মেনশন দাও! 💞",
+                        noMention: "× বেবি, কাউকে তো মেনশন দাও! প্রয়োজনে Contact It'z Sammyo💞!",
                         success: "𝐇𝐞𝐫𝐞’𝐬 𝐲𝐨𝐮𝐫 𝐢𝐦𝐚𝐠𝐞 𝐛𝐚𝐛𝐲 <😘",
-                        error: "× সমস্যা হয়েছে: %1। প্রয়োজনে Contact MahMUD।"
+                        error: "× সমস্যা হয়েছে: %1। প্রয়োজনে Contact It'z Sammyo।"
                 },
                 en: {
-                        noMention: "× Baby, please mention someone! 💞",
+                        noMention: "× Baby, please mention someone Contact It'z Sammyo for help! 💞",
                         success: "𝐇𝐞𝐫𝐞’𝐬 𝐲𝐨𝐮𝐫 𝐢𝐦𝐚𝐠𝐞 𝐛𝐚𝐛𝐲 <😘",
-                        error: "× API error: %1. Contact MahMUD for help."
+                        error: "× API error: %1. Contact It'z Sammyo for help."
                 },
                 vi: {
                         noMention: "× Cưng ơi, hãy đề cập đến ai đó! 💞",
