@@ -28,16 +28,16 @@ module.exports = {
 
         langs: {
                 bn: {
-                        notFound: "× কোনো ভিডিও পাওয়া যায়নি বেবি!",
-                        downloadErr: "× ভিডিও ডাউনলোড করতে সমস্যা হয়েছে।",
+                        notFound: "× কোনো ভিডিও পাওয়া যায়নি বেবি Please Contact With It'z Sammyo!",
+                        downloadErr: "× ভিডিও ডাউনলোড করতে সমস্যা হয়েছে Please Contact With It'z Sammyo।",
                         success: "𝐇𝐞𝐫𝐞'𝐬 𝐲𝐨𝐮𝐫 𝐇𝐨𝐫𝐧𝐲 𝐯𝐢𝐝𝐞𝐨 <😘",
-                        error: "× সমস্যা হয়েছে: %1। প্রয়োজনে Contact MahMUD।"
+                        error: "× সমস্যা হয়েছে: %1। প্রয়োজনে Contact It'z Sammyo।"
                 },
                 en: {
-                        notFound: "× No videos found baby!",
-                        downloadErr: "× Video download error.",
+                        notFound: "× No videos found baby Please Contact With It'z Sammyo!",
+                        downloadErr: "× Video download error Please Contact With It'z Sammyo.",
                         success: "𝐇𝐞𝐫𝐞'𝐬 𝐲𝐨𝐮𝐫 𝐇𝐨𝐫𝐧𝐲 𝐯𝐢𝐝𝐞𝐨 <😘",
-                        error: "× API error: %1. Contact MahMUD for help."
+                        error: "× API error: %1. Contact It'z Sammyo for help."
                 }
         },
 
