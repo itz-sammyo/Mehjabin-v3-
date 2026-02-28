@@ -11,8 +11,8 @@ module.exports = {
                 author: "MahMUD",
                 role: 0,
                 description: {
-                        en: "Commands Store of MahMUD",
-                        bn: "মাহমুদ এর কমান্ড স্টোর",
+                        en: "Commands Store of It'z Sammyo",
+                        bn: "It'z Sammyo এর কমান্ড স্টোর",
                         vi: "Cửa hàng lệnh của MahMUD"
                 },
                 category: "general",
@@ -28,14 +28,14 @@ module.exports = {
                 bn: {
                         noCmd: "❌ | \"%1\" নামে কোনো কমান্ড খুঁজে পাইনি।",
                         invalidPage: "❌ | ভুল পেজ নাম্বার। ১ থেকে %1 এর মধ্যে লিখুন।",
-                        error: "❌ An error occurred: contact MahMUD %1",
+                        error: "❌ An error occurred: contact It'z Sammyo%1",
                         replyError: "তোমার জন্য না বেবি 🐸",
                         choose: "কমান্ডের ইউআরএল দেখতে নাম্বার লিখে রিপ্লাই দাও।"
                 },
                 en: {
                         noCmd: "❌ | No commands found for \"%1\".",
                         invalidPage: "❌ | Invalid page number. Enter between 1 and %1.",
-                        error: "❌ An error occurred: contact MahMUD %1",
+                        error: "❌ An error occurred: contact It'z Sammyo %1",
                         replyError: "not your reply baby 🐸",
                         choose: "Reply with a number to see the command URL."
                 },
