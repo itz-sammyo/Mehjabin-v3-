@@ -29,11 +29,11 @@ module.exports = {
         langs: {
                 bn: {
                         noImg: "× বেবি, একটি ছবিতে রিপ্লাই দিয়ে কমান্ডটি ব্যবহার করো! 🖼️",
-                        error: "× সমস্যা হয়েছে: %1। প্রয়োজনে Contact MahMUD।"
+                        error: "× সমস্যা হয়েছে: %1। প্রয়োজনে Contact It'z Sammyo।"
                 },
                 en: {
                         noImg: "× Baby, please reply to an image to use this command! 🖼️",
-                        error: "× API error: %1. Contact MahMUD for help."
+                        error: "× API error: %1. Contact It'z Sammyo for help."
                 },
                 vi: {
                         noImg: "× Cưng ơi, vui lòng phản hồi một hình ảnh để sử dụng! 🖼️",
