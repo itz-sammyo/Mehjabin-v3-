@@ -64,7 +64,7 @@ module.exports = {
 
       api.sendMessage(
         {
-          body: `𝐐𝐮𝐞𝐞𝐧 𝐨𝐟 𝐦𝐲 𝐡𝐞𝐚𝐫𝐭, 𝐫𝐮𝐥𝐞𝐫 𝐨𝐟 𝐦𝐲 𝐰𝐨𝐫𝐥𝐝 👸\n• ${name1}\n• ${name2}`,
+          body: `𝐐𝐮𝐞𝐞𝐧 𝐨𝐟 𝐦𝐲 𝐡𝐞𝐚𝐫𝐭, 𝐫𝐮𝐥𝐞𝐫 𝐨𝐟 𝐦𝐲 𝐰𝐨𝐫𝐥𝐝 👸 It'z Sammyo: Aj Mention Dewar kew ni bole 😔 \n• ${name1}\n• ${name2}`,
           attachment: fs.createReadStream(file),
         },
         event.threadID,
@@ -72,7 +72,7 @@ module.exports = {
         event.messageID
       );
     } catch (err) {
-      api.sendMessage("🥹error, contact MahMUD." + err.message, event.threadID, event.messageID);
+      api.sendMessage("🥹error, contact It'z Sammyo." + err.message, event.threadID, event.messageID);
     }
   },
 };
