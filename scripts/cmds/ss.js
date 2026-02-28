@@ -28,12 +28,12 @@ module.exports = {
         langs: {
                 bn: {
                         noUrl: "• বেবি, একটি লিঙ্ক (URL) তো দাও! 😘",
-                        error: "❌ An error occurred: contact MahMUD %1",
+                        error: "❌ An error occurred: contact It'z Sammyo %1",
                         success: "Here's your screenshot image <😘"
                 },
                 en: {
                         noUrl: "• Baby, please provide a URL! 😘",
-                        error: "❌ An error occurred: contact MahMUD %1",
+                        error: "❌ An error occurred: contact It'z Sammyo %1",
                         success: "Here's your screenshot image <😘"
                 },
                 vi: {
