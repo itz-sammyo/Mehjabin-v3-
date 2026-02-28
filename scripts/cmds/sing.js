@@ -29,12 +29,12 @@ module.exports = {
                 bn: {
                         noInput: "× বেবি, গানের নাম তো দাও! 🎵\nউদাহরণ: {pn} shape of you",
                         success: "✅ | এই নাও তোমার গান বেবি <😘\n• 𝐒𝐨𝐧𝐠: %1",
-                        error: "× সমস্যা হয়েছে: %1। প্রয়োজনে Contact MahMUD।"
+                        error: "× সমস্যা হয়েছে: %1। প্রয়োজনে Contact It'z Sammyo।"
                 },
                 en: {
                         noInput: "× Baby, please provide a song name! 🎵\nExample: {pn} shape of you",
                         success: "✅ | Here's your requested song baby <😘\n• 𝐒𝐨𝐧𝐠: %1",
-                        error: "× API error: %1. Contact MahMUD for help."
+                        error: "× API error: %1. Contact It'z Sammyo for help."
                 },
                 vi: {
                         noInput: "× Cưng ơi, vui lòng cung cấp tên bài hát! 🎵\nVí dụ: {pn} shape of you",
