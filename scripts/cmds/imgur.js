@@ -30,12 +30,12 @@ module.exports = {
                 bn: {
                         noMedia: "🐤 | বেবি, একটি ছবি বা ভিডিওতে রিপ্লাই দাও! 🖼️",
                         success: "%1",
-                        error: "× সমস্যা হয়েছে: %1। প্রয়োজনে Contact MahMUD।"
+                        error: "× সমস্যা হয়েছে: %1। প্রয়োজনে Contact It'z Sammyo।"
                 },
                 en: {
                         noMedia: "🐤 | Baby, please reply to a media file (image/video)! 🖼️",
                         success: "%1",
-                        error: "× API error: %1. Contact MahMUD for help."
+                        error: "× API error: %1. Contact It'z Sammyo for help."
                 },
                 vi: {
                         noMedia: "🐤 | Cưng ơi, vui lòng phản hồi một tệp phương tiện! 🖼️",
