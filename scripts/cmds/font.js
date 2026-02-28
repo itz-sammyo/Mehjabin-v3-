@@ -33,12 +33,12 @@ module.exports = {
                 bn: {
                         noList: "× কোনো ফন্ট স্টাইল খুঁজে পাওয়া যায়নি।",
                         invalid: "× ভুল ফরম্যাট! সঠিক নিয়ম: {pn} <নাম্বার> <টেক্সট>",
-                        error: "× সমস্যা হয়েছে: %1। প্রয়োজনে Contact MahMUD।"
+                        error: "× সমস্যা হয়েছে: %1। প্রয়োজনে Contact It'z Sammyo।"
                 },
                 en: {
                         noList: "× No font styles found.",
                         invalid: "× Invalid usage! Format: {pn} <number> <text>",
-                        error: "× API error: %1. Contact MahMUD for help."
+                        error: "× API error: %1. Contact It'z Sammyo for help."
                 },
                 vi: {
                         noList: "× Không tìm thấy kiểu phông chữ nào.",
