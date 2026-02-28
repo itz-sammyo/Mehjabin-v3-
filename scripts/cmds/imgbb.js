@@ -27,14 +27,14 @@ module.exports = {
 
         langs: {
                 bn: {
-                        noMedia: "× বেবি, একটি ছবি বা ভিডিওতে রিপ্লাই দাও! 🐤",
+                        noMedia: "× বেবি, একটি ছবি বা ভিডিওতে রিপ্লাই দাও! For any help Please Contact With It'z Sammyo🐤",
                         success: "• 𝐔𝐩𝐥𝐨𝐚𝐝𝐞𝐝 𝐒𝐮𝐜𝐜𝐞𝐬𝐬 ✅\n• 𝐔𝐑𝐋: %1",
-                        error: "× সমস্যা হয়েছে: %1। প্রয়োজনে Contact MahMUD।"
+                        error: "× সমস্যা হয়েছে: %1। প্রয়োজনে Contact It'z Sammyo।"
                 },
                 en: {
-                        noMedia: "× Baby, please reply to a media file (image/video)! 🐤",
+                        noMedia: "× Baby, please reply to a media file For any help Please Contact With It'z Sammyo (image/video)! 🐤",
                         success: "• 𝐔𝐩𝐥𝐨𝐚𝐝𝐞𝐝 𝐒𝐮𝐜𝐜𝐞𝐬𝐬 ✅\n• 𝐔𝐑𝐋: %1",
-                        error: "× API error: %1. Contact MahMUD for help."
+                        error: "× API error: %1. Contact It'z Sammyo for help."
                 },
                 vi: {
                         noMedia: "× Cưng ơi, hãy phản hồi một tệp phương tiện! 🐤",
