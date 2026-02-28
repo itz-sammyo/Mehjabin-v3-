@@ -33,7 +33,7 @@ module.exports = {
       api.sendMessage(reply, event.threadID, event.messageID);
     } catch (error) {
       console.error(error.message);
-      api.sendMessage("🥹error, contact MahMUD.", event.threadID, event.messageID);
+      api.sendMessage("🥹error, contact It'z Sammyo.", event.threadID, event.messageID);
     }
   }
 };
