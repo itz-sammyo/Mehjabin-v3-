@@ -26,12 +26,12 @@ module.exports = {
         langs: {
                 bn: {
                         noReply: "• বেবি, ব্যাকগ্রাউন্ড রিমুভ করার জন্য একটি ছবিতে রিপ্লাই দাও.",
-                        error: "❌ An error occurred: contact MahMUD %1",
+                        error: "❌ An error occurred: contact It'z Sammyo %1",
                         success: "✅ Background Removed Successfully!"
                 },
                 en: {
                         noReply: "• Baby, please reply to an image to remove background.",
-                        error: "❌ An error occurred: contact MahMUD %1",
+                        error: "❌ An error occurred: contact It'z Sammyo %1",
                         success: "✅ Background Removed Successfully!"
                 },
                 vi: {
