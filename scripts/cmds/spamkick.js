@@ -27,14 +27,14 @@ module.exports = {
                         off: "❎ | এই গ্রুপে স্প্যাম কিক সিস্টেম বন্ধ করা হয়েছে!",
                         notActive: "❎ | স্প্যাম কিক এই গ্রুপে আগে থেকেই বন্ধ আছে।",
                         kickMsg: "🚫 | %1 কে স্প্যামিং করার জন্য গ্রুপ থেকে রিমুভ করা হয়েছে।\nইউজার আইডি: %2",
-                        error: "× সমস্যা হয়েছে: %1। প্রয়োজনে Contact MahMUD।"
+                        error: "× সমস্যা হয়েছে: %1। প্রয়োজনে Contact It'z Sammyo।"
                 },
                 en: {
                         on: "✅ | Spam kick has been turned on for this group!",
                         off: "❎ | Spam kick has been turned off for this thread.",
                         notActive: "❎ | Spam kick is not active on this thread.",
                         kickMsg: "🚫 | %1 has been removed for spamming.\nUser ID: %2",
-                        error: "× API error: %1. Contact MahMUD for help."
+                        error: "× API error: %1. Contact It'z Sammyo for help."
                 },
                 vi: {
                         on: "✅ | Hệ thống kích spam đã được bật cho nhóm này!",
