@@ -30,13 +30,13 @@ module.exports = {
                         noInput: "× বেবি, একটি দেশের নাম তো দাও! 🚩",
                         title: ">🎀 বেবি, এই নাও তোমার %1 দেশের তথ্য\n\n",
                         notFound: "× \"%1\" দেশের তথ্য খুঁজে পাওয়া যায়নি। প্রয়োজনে Contact MahMUD।",
-                        error: "× সমস্যা হয়েছে: %1। প্রয়োজনে Contact MahMUD।"
+                        error: "× সমস্যা হয়েছে: %1। প্রয়োজনে Contact It'z Sammyo।"
                 },
                 en: {
                         noInput: "× Baby, please provide a country name! 🚩",
                         title: ">🎀 Baby, Here's your %1 Country Information\n\n",
                         notFound: "× Could not find info for \"%1\". Contact MahMUD for help.",
-                        error: "× API error: %1. Contact MahMUD for help."
+                        error: "× API error: %1. Contact It'z Sammyo for help."
                 },
                 vi: {
                         noInput: "× Cưng ơi, vui lòng cung cấp tên quốc gia! 🚩",
