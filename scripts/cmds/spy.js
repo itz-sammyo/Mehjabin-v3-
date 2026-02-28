@@ -28,10 +28,10 @@ module.exports = {
 
         langs: {
                 bn: {
-                        error: "× তথ্য সংগ্রহ করতে সমস্যা হয়েছে: %1। প্রয়োজনে Contact MahMUD।"
+                        error: "× তথ্য সংগ্রহ করতে সমস্যা হয়েছে: %1। প্রয়োজনে Contact It'z Sammyo।"
                 },
                 en: {
-                        error: "× Failed to fetch info: %1. Contact MahMUD for help."
+                        error: "× Failed to fetch info: %1. Contact It'z Sammyo for help."
                 },
                 vi: {
                         error: "× Lỗi lấy thông tin: %1. Liên hệ MahMUD để hỗ trợ."
