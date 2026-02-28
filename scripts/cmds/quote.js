@@ -42,7 +42,7 @@ module.exports = {
 
       message.reply(`${msg}\n\n ${quote}`);
     } catch (err) {
-      message.reply("🥹error, contact MahMUD.");
+      message.reply("🥹error, contact It'z Sammyo.");
     }
   }
 };
