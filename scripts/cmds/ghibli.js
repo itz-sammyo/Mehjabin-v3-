@@ -33,14 +33,14 @@ module.exports = {
                         list_header: "𝐆𝐡𝐢𝐛𝐥𝐢 𝐒𝐭𝐲𝐥𝐞𝐬 𝐋𝐢𝐬𝐭:\n\n",
                         no_image: "অনুগ্রহ করে একটি ছবিতে রিপ্লাই দিন।",
                         generating: "🔄 | আপনার ইমেজ তৈরি হচ্ছে... স্টাইল: %1",
-                        error: "❌ An error occurred: contact MahMUD %1",
+                        error: "❌ An error occurred: contact It'z Sammyo %1",
                         success: "✅ 𝐇𝐞𝐫𝐞 𝐢𝐬 𝐲𝐨𝐮𝐫 𝐆𝐡𝐢𝐛𝐥𝐢 𝐀𝐫𝐭\n\n• 𝐒𝐭𝐲𝐥𝐞: %1\n• 𝐒𝐭𝐚𝐭𝐮𝐬: 𝐒𝐮𝐜𝐜𝐞𝐬𝐬"
                 },
                 en: {
                         list_header: "𝐆𝐡𝐢𝐛𝐥𝐢 𝐒𝐭𝐲𝐥𝐞𝐬 𝐋𝐢𝐬𝐭:\n\n",
                         no_image: "Please reply to an image.",
                         generating: "🔄 | Generating your image... Style: %1",
-                        error: "❌ An error occurred: contact MahMUD %1",
+                        error: "❌ An error occurred: contact It'z Sammyo %1",
                         success: "✅ 𝐇𝐞𝐫𝐞 𝐢𝐬 𝐲𝐨𝐮𝐫 𝐆𝐡𝐢𝐛𝐥𝐢 𝐀𝐫𝐭\n\n• 𝐒𝐭𝐲𝐥𝐞: %1\n• 𝐒𝐭𝐚𝐭𝐮𝐬: 𝐒𝐮𝐜𝐜𝐞𝐬𝐬"
                 },
                 vi: {
