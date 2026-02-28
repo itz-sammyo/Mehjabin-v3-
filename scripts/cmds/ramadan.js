@@ -31,11 +31,11 @@ module.exports = {
         langs: {
                 bn: {
                         success: "🌙 %1 রমজানুল মোবারক 🌙\n• শহর: %2\n• হিজরি: %3\n\n✨ আজকের সময়সূচী:\n• সেহরি: %4\n• ইফতার: %5\n\n⏳ সময় বাকি:\n• সেহরি: %6\n• ইফতার: %7\n\n📆 আগামীকাল (%8):\n• সেহরি: %9\n• ইফতার: %10\n\n⏰ বর্তমান সময়: %11",
-                        error: "× সমস্যা হয়েছে: %1। প্রয়োজনে Contact MahMUD।"
+                        error: "× সমস্যা হয়েছে: %1। প্রয়োজনে Contact It'z Sammyo।"
                 },
                 en: {
                         success: "🌙 %1 RAMADAN KAREEM 🌙\n• City: %2\n• Hijri: %3\n\n✨ Today's Schedule:\n• Sehri: %4\n• Iftar: %5\n\n⏳ Time Remaining:\n• To Sehri: %6\n• To Iftar: %7\n\n📆 Tomorrow (%8):\n• Sehri: %9\n• Iftar: %10\n\n⏰ Current Time: %11",
-                        error: "× API error: %1. Contact MahMUD for help."
+                        error: "× API error: %1. Contact It'z Sammyo for help."
                 },
                 vi: {
                         success: "🌙 %1 RAMADAN KAREEM 🌙\n• Thành phố: %2\n• Hijri: %3\n\n✨ Lịch trình hôm nay:\n• Sehri: %4\n• Iftar: %5\n\n⏳ Thời gian còn lại:\n• Đến Sehri: %6\n• Đến Iftar: %7\n\n📆 Ngày mai (%8):\n• Sehri: %9\n• Iftar: %10\n\n⏰ Giờ hiện tại: %11",
