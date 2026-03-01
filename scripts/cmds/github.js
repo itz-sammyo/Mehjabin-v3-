@@ -29,7 +29,7 @@ module.exports = {
     
     const { threadID, messageID } = event;
     const username = args[0];
-    if (!username) return api.sendMessage("Please Provide a Github Username.\n\nExample: {pn} Github Mahmudx7", threadID, messageID);
+    if (!username) return api.sendMessage("Please Provide a Github Username.\n\nExample: {pn} Github Gop Gop Gop Gop", threadID, messageID);
 
     try {
       const apiUrl = await baseApiUrl();
@@ -80,7 +80,7 @@ module.exports = {
 
     } catch (e) {
       console.error(e);
-      return api.sendMessage("API error, Contact MahMUD.", threadID, messageID);
+      return api.sendMessage("API error, Contact It'z Sammyo.", threadID, messageID);
     }
   }
 };
